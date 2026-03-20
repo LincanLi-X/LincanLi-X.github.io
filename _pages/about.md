@@ -12,15 +12,18 @@ redirect_from:
 
 Short Bio
 ======
-Hi everyone. I'm a 1st year PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Spatial-Temporal Data Mining, AI+X, Large Language Models, and Trustworthy AI. In general, I'm always highly interested in broad data mining and graph-based applications, Trustworthy and secure LLMs. <span style="color:#9966CC">I build AI models & algorithms that advance social good and strengthen interdisciplinary applications, aiming to make people's work and life better, more efficient, and more secure.</span> You can find my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=EN)</span> here, <span style="color:blue">[Github Site](https://github.com/LincanLi98)</span> here.
+Hi everyone. I'm a PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Agentic Safety, Spatial-Temporal Intelligence, Trustworthy AI, AI + X, and LLM Post-Training. My long-term research goal is to <span style="color:#9966CC">build AI models & algorithms that advance social good and strengthen interdisciplinary applications, aiming to make people's work and life better, more efficient, and more secure.</span> 
+
+I'm always open to discussion and collaborations. You can find my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=EN)</span> here, <span style="color:blue">[Github Site](https://github.com/LincanLi98)</span> here.
 **Email Contact**: ll24bb@fsu.edu<br>
 
+<!--
 **Background**
 -----
 - Researcher at University of New South Wales (Nov 2023 - Dec 2024)
 - MPhil at Zhejiang University & Exchange Student at The University of Sydney
 - Bachelor at Northeastern University
-
+-->
 
 Research Highlights👍
 ======
