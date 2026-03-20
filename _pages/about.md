@@ -14,8 +14,7 @@ Short Bio
 ======
 Hi everyone. I'm a PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Agentic Safety, Spatial-Temporal Intelligence, Trustworthy AI, AI + X, and LLM Post-Training. My long-term research goal is to <span style="color:#9966CC">build AI models & algorithms that advance social good and strengthen interdisciplinary applications, aiming to make people's work and life better, more efficient, and more secure.</span> 
 
-I'm always open to discussion and collaborations. You can find my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=EN)</span> here, <span style="color:blue">[Github Site](https://github.com/LincanLi98)</span> here.
-**Email Contact**: ll24bb@fsu.edu<br>
+**I'm always open to discussion and collaborations.** You can find my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=EN)</span> here, <span style="color:blue">[Github Site](https://github.com/LincanLi98)</span> here. Email Contact: [ll24bb@fsu.edu](ll24bb@fsu.edu)<br>
 
 <!--
 **Background**
@@ -30,7 +29,7 @@ Research Highlights👍
 > (Nov/23/2025) Our paper titled <span style="color:blue">"[PEANuT: Parameter-Efficient Adaptation with Weight-aware Neural Tweakers](https://arxiv.org/html/2410.01870v3)"</span> is accepted by **KDD 2026**. Thank you and congratulations!
 
 > ### (Nov/05/2025) 🏆 My first-authored paper "Typhoformer" received:
-> <span style="color:orange">SIGSPATIAL 2025 Best Short Paper Award!</span>
+> <span style="color:orange">SIGSPATIAL 2025 Best Paper Award (short)</span>
 
 > (Oct/25/2025) Our paper <u>LLM-Empowered Patient-Provider Communication</u> is accepted by <span style="color:red">AACL 2025</span>. Ruosi Shao, Md Shamim Seraj, Kangyi Zhao, Yingtao Luo, **Lincan Li**, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, Yushun Dong."<span style="color:blue">LLM-Empowered patient-provider communication: A data-centric survey from a clinical perspective.</span> In Findings of the IJCNLP-AACL 2025.
 
@@ -105,7 +104,7 @@ Academic Awards & Competitions
 3. Meritorious Winner (First Prize) of the International Interdisciplinary Contest In Mathematical Modeling (ICM). Awarded in April, 2019.
 !-->
 
-
+<!--
 Academic Internship/Exchange at World Leading Institutions
 ------
 <table>
@@ -125,7 +124,7 @@ Academic Internship/Exchange at World Leading Institutions
     <td>U.S.A</td>
   </tr>
 </table>
-
+-->
 
 Academic Services
 ------
