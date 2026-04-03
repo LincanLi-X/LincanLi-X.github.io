@@ -12,7 +12,7 @@ redirect_from:
 
 Short Bio
 ======
-Hi everyone. I'm a PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Agentic Safety, Spatial-Temporal Intelligence, Trustworthy AI, AI + X, and LLM Post-Training. My long-term research goal is to <span style="color:#9966CC">build AI models & algorithms that advance social good and strengthen interdisciplinary applications, aiming to make people's work and life better, more efficient, and more secure.</span> 
+Hi everyone. I'm a 1st year PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Agentic Safety, Spatial-Temporal Intelligence, Trustworthy AI, AI + X, and LLM Post-Training. My long-term research goal is to <span style="color:#9966CC">build AI models & algorithms that advance social good and strengthen interdisciplinary applications, aiming to make people's work and life better, more efficient, and more secure.</span> 
 
 **I'm always open to discussion and collaborations.** You can find my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=EN)</span> here, <span style="color:blue">[Github Site](https://github.com/LincanLi98)</span> here. Email Contact: [ll24bb@fsu.edu](ll24bb@fsu.edu)<br>
 
@@ -26,6 +26,8 @@ Hi everyone. I'm a PhD student at [Responsible AI (RAI) Lab](https://yushundong.
 
 Research Highlights👍
 ======
+> (March/27/2026) My first-authored paper titled <span style="color:blue">"[Optimizing EEG Graph Structure for Seizure Detection: An Information Bottleneck and Self-Supervised Learning Approach](https://arxiv.org/abs/2604.01595)"</span> is accepted by ICHI 2026 Conference. 
+
 > (Nov/23/2025) Our paper titled <span style="color:blue">"[PEANuT: Parameter-Efficient Adaptation with Weight-aware Neural Tweakers](https://arxiv.org/html/2410.01870v3)"</span> is accepted by **KDD 2026**. Thank you and congratulations!
 
 > ### (Nov/05/2025) 🏆 My first-authored paper "Typhoformer" received:
@@ -35,7 +37,7 @@ Research Highlights👍
 
 > (Oct/08/2025) 👍 I received ACM SIGSPATIAL'25 NSF Travel Award out of 130+ applicants.
 
-> 🎉🎉(Aug/04/2025) My first-authored research paper is accepted by <span style="color:red">SIGSPATIAL 2025</span>. **Lincan Li**, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, Yushun Dong, <span style="color:blue">"TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting"</span>. [[Preprint version](https://arxiv.org/abs/2506.17609)] [[Code](https://github.com/LabRAI/TyphoFormer/)].
+> (Aug/04/2025) My first-authored research paper is accepted by <span style="color:red">SIGSPATIAL 2025</span>. **Lincan Li**, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, Yushun Dong, <span style="color:blue">"TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting"</span>. [[Preprint version](https://arxiv.org/abs/2506.17609)] [[Code](https://github.com/LabRAI/TyphoFormer/)].
 
 > I will be the **lead presenter** for our KDD 2025 tutorial entitled: <a href="https://labrai.github.io/KDD2025_Tutorial/" target="_blank">"Model Extraction Attack and Defenses for Large Language Models: Recent Advances, Challenges, and Future Prospectives"</a>. See our <span style="color:red">tutorial website</span> at [[here](https://labrai.github.io/KDD2025_Tutorial/)], and our full <span style="color:red">tutorial slides</span> at [[here](https://labrai.github.io/KDD2025_Tutorial/files/MEA_LLM_KDD_Tutorial_Slides.pdf)].
 
