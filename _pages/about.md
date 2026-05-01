@@ -26,7 +26,7 @@ Hi everyone. I'm a 1st year PhD student at [Responsible AI (RAI) Lab](https://yu
 
 Research Highlights👍
 ======
-> (Apr/30/2026) My first-authored paper titled <span style="color:blue">"[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](https://arxiv.org/abs/2604.28178)"</span> is accepted by accepted by IJCAI 2026.
+> (Apr/30/2026) My first-authored paper titled <span style="color:blue">"[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](https://arxiv.org/abs/2604.28178)"</span> is accepted by accepted by **IJCAI 2026** Conference.
 
 > (March/27/2026) My first-authored paper titled <span style="color:blue">"[Optimizing EEG Graph Structure for Seizure Detection: An Information Bottleneck and Self-Supervised Learning Approach](https://arxiv.org/abs/2604.01595)"</span> is accepted by ICHI 2026 Conference. 
 
