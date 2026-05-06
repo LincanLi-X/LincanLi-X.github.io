@@ -26,14 +26,14 @@ Hi everyone. I'm a 1st year PhD student at [Responsible AI (RAI) Lab](https://yu
 
 Research Highlights👍
 ======
-> (Apr/30/2026) My first-authored paper titled <span style="color:blue">"[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](https://arxiv.org/abs/2604.28178)"</span> is accepted by **IJCAI 2026** Conference.
+> (Apr/30/2026) My first-authored paper titled <span style="color:blue">"[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](https://arxiv.org/abs/2604.28178)"</span> is accepted by <span style="color:red">**IJCAI 2026** (CORE A*)</span> Conference.
 
 > (March/27/2026) My first-authored paper titled <span style="color:blue">"[Optimizing EEG Graph Structure for Seizure Detection: An Information Bottleneck and Self-Supervised Learning Approach](https://arxiv.org/abs/2604.01595)"</span> is accepted by ICHI 2026 Conference. 
 
-> (Nov/23/2025) Our paper titled <span style="color:blue">"[PEANuT: Parameter-Efficient Adaptation with Weight-aware Neural Tweakers](https://arxiv.org/html/2410.01870v3)"</span> is accepted by **KDD 2026**. Thank you and congratulations!
+> (Nov/23/2025) Our paper titled <span style="color:blue">"[PEANuT: Parameter-Efficient Adaptation with Weight-aware Neural Tweakers](https://arxiv.org/html/2410.01870v3)"</span> is accepted by <span style="color:red">**KDD 2026** (CORE A*)</span>. Thank you and congratulations!
 
 > ### (Nov/05/2025) 🏆 My first-authored paper "Typhoformer" received:
-> <span style="color:orange">SIGSPATIAL 2025 Best Paper Award (short)</span>
+> <span style="color:orange">**SIGSPATIAL Best Paper Award (short)**</span>
 
 > (Oct/25/2025) Our paper <u>LLM-Empowered Patient-Provider Communication</u> is accepted by <span style="color:red">AACL 2025</span>. Ruosi Shao, Md Shamim Seraj, Kangyi Zhao, Yingtao Luo, **Lincan Li**, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, Yushun Dong."<span style="color:blue">LLM-Empowered patient-provider communication: A data-centric survey from a clinical perspective.</span> In Findings of the IJCNLP-AACL 2025.
 
